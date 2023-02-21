@@ -15,5 +15,4 @@ BEGIN
             RETURN res_no
         END_IF
     END_IF
-    RETURN value ;
 END
